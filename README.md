@@ -1,11 +1,13 @@
 **NLP and Deep Learning Projects**
 
 **Student Information**
+
 Name: [Venkata nanda krishna yaram]
 
 Student ID: [700765514]
 
 **Project Overview**
+
 This project explores multiple tasks in the domain of Natural Language Processing (NLP) and Deep Learning. The following tasks are covered:
 
 NLP Preprocessing Pipeline
@@ -31,6 +33,7 @@ Sentiment Analysis using HuggingFace Transformers
 Conclusion
 
 **1. NLP Preprocessing Pipeline**
+
 Objective:
 Implement a basic preprocessing pipeline for NLP tasks, which includes tokenization, stopword removal, and stemming.
 
@@ -51,6 +54,7 @@ A list with stopwords removed
 A final list of stemmed words
 
 **2. Named Entity Recognition (NER) using SpaCy**
+
 Objective:
 Implement Named Entity Recognition (NER) using the SpaCy library to identify entities in a given sentence.
 
@@ -74,6 +78,7 @@ The entity label (e.g., PERSON)
 The start and end positions in the sentence.
 
 **3. Scaled Dot-Product Attention**
+
 Objective:
 Implement the scaled dot-product attention mechanism, a core component of transformer models.
 
@@ -94,6 +99,7 @@ Attention weights matrix (after softmax)
 The final output matrix after applying the attention weights to the value matrix.
 
 **4. Sentiment Analysis using HuggingFace Transformers**
+
 Objective:
 Use a pre-trained sentiment analysis pipeline from HuggingFace to classify the sentiment of a sentence.
 
@@ -115,6 +121,7 @@ Sentiment label (e.g., POSITIVE)
 Confidence score (e.g., 0.9998)
 
 **Conclusion**
+
 This project demonstrates the implementation of various techniques in Natural Language Processing and Deep Learning:
 
 NLP Preprocessing: We performed tokenization, stopword removal, and stemming to prepare text for analysis.
